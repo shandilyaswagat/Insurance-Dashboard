@@ -67,5 +67,5 @@
 - **Screenshot:**  
   - [Insurance Performance Overview](https://github.com/shandilyaswagat/Insurance-Dashboard/blob/main/Insurance_Performance_Dashboard.png)  
   - [Claim & Risk Analysis](https://github.com/shandilyaswagat/Insurance-Dashboard/blob/main/Claim_Risk_Analysis.png)  
-  - [Underwriting & Operational Insights](https://github.com/shandilyaswagat/Insurance-Dashboard/blob/main/Underwriting_Operaton_Insights.png)
+  - [Underwriting & Operational Insights](https://github.com/shandilyaswagat/Insurance-Dashboard/blob/main/Underwriting_Dashboard.jpeg)
 
